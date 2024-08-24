@@ -27,3 +27,5 @@ console.log(sortedArray);
 
 // It is a non comparison sort
 // It does not work on negative values
+// Time complexity -> O(n+k)
+// Space complexity -> O(n+k)
